@@ -1,0 +1,13 @@
+9999728037
+
+
+
+
+Requirement DOC
+
+Landing Server IP - 202.137.228.98:7865
+winext.user4 / Mgrm@5054
+
+From within Landing Server, connect to following VM: VM IP -
+ 10.10.101.225
+winext.user4 / Mgrm@8721
